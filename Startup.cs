@@ -12,7 +12,7 @@ using Microsoft.Extensions.Options;
 namespace WebApi
 {
     public class Startup
-    {
+    {//Поздрав
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
